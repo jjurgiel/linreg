@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-from sklearn.datasets import make_classification
 import numpy as np
 
 
